@@ -12,7 +12,7 @@
         -This model's high_risk had a precision score of 1% and a recall score of 61%
         -This model's low_risk had a precision score of 100% and a recall score of 68%
 
-![Naive Random Oversampling Model](/data/balanced_random_oversampling_model.png)
+![Naive Random Oversampling Model](/data/naive_random_oversampling_model.png)
     
 ### -SMOTE Oversampling Model:
         -This model has an accuracy score of about 62%
@@ -33,7 +33,7 @@
         -This model's high_risk had a precision score of 1% and a recall score of 70%
         -This model's low_risk had a precision score of 100% and a recall score of 58%
         
-![SMOTEENIN Combination Model](/data/SMOTEENIN_combination_model.png)
+![SMOTEENIN Combination Model](/data/SMOTEENIN_combination_sampling_model.png)
         
 ### -Balanced Random Forest Classifier Model:
         -This model has an accuracy score of about 79%
